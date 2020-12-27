@@ -1,0 +1,21 @@
+{
+    "name": "禾寸",
+    "short_name": "禾寸",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#66ccff",
+    "description": "禾寸的个人主页",
+    "theme_color": "blue",
+    "icons": [
+      {
+        "src": "./img/logo.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "related_applications": [
+      {
+        "platform": "web"
+      }
+    ]
+  }
